@@ -1,9 +1,14 @@
 ---
 layout: page
+title: "About"
 permalink: /about/
+author_profile: true
+redirect_from:
+  - /about.html
 ---
 
-Hi, I’m **Sislia Utina**
+
+Hi, I’m **Sislia Utina** 👋
 
 I’m a Bachelor of Mathematics from Universitas Negeri Gorontalo with strong interests in data analysis, programming, problem-solving, and design. I enjoy exploring ideas and finding innovative ways to approach challenges.  
 
