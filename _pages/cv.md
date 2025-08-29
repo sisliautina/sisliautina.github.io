@@ -10,13 +10,13 @@ redirect_from:
 
 Education
 ======
-**Universitas Negeri Gorontalo**
-
-  _Bachelor’s degree in Mathematics -- Aug, 2017 – Jan, 2022_
+**Universitas Negeri Gorontalo**  
+_Bachelor’s degree in Mathematics -- Aug, 2017 – Jan, 2022_
   * GPA 3.48 / 4.00
   * Studied fundamental and advanced mathematical theories, including calculus, linear algebra, and probability.
   * Learned how to use programming and data processing tools like Python, SPSS, R, RStudio, Latex and more.
   * Completed a thesis project titled “Analysis of Stochastic SIRV Model in the Transmission of COVID-19 by Considering Effectiveness of Vaccination”.
+
 
 Work Experience
 ======
@@ -33,6 +33,7 @@ _Mathematics Laboratory Assistant -- Feb, 2020 – Jan, 2022_
   * Assisted students in understanding mathematical concepts and solving problems during laboratory sessions.
   * Introduced students to data processing and programming tools to enhance their computational skills.
   * Provided support to lecturers by organizing and maintaining laboratory tools and supplies.
+
   
 Project Experience
 ======
@@ -54,6 +55,7 @@ _INDEF – Institute for Development of Economics and Finance_
   * Designed an academic presentation using Beamer (LaTeX)
   * Developed a professional academic CV in LaTeX format Built an academic profile website using
   * AcademicPages on GitHub Pages
+
   
 Publications
 ======
@@ -61,6 +63,7 @@ Publications
 * In this research, the SIRV model was used to examine the dynamics of COVID-19 transmission with two stages of vaccination: the first dose and the second dose.
 * The model analysis involved determining the basic reproduction number, followed by identifying transition probabilities and the likelihood of an outbreak using the stochastic approach of Continuous-time Markov Chain (CTMC).
 * Data analysis was carried out manually and using software such as Python, Microsoft Excel, and RStudio to visually represent the dynamics of disease transmission.
+
   
 Training and Cerification
 ======
@@ -76,6 +79,7 @@ _BRI Corporate University, Makassar Dec, 2022_
 _ASEAN Foundation - Online May, 2022_
 * Participant in Data Analysis Training using SAP Analytic Cloud (SAC).
 
+
 Skills
 ======
 * Microsoft Office
@@ -83,6 +87,7 @@ Skills
 * Python
 * RStudio
 * SPSS Data Analysis
+
   
 Languages
 ======
