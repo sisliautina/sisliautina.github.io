@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 **Universitas Negeri Gorontalo**  
-_Bachelor’s degree in Mathematics -- Aug, 2017 – Jan, 2022_
+_Bachelor’s degree in Mathematics_ | _Aug, 2017 – Jan, 2022_
   * GPA 3.48 / 4.00
   * Studied fundamental and advanced mathematical theories, including calculus, linear algebra, and probability.
   * Learned how to use programming and data processing tools like Python, SPSS, R, RStudio, Latex and more.
@@ -21,7 +21,7 @@ _Bachelor’s degree in Mathematics -- Aug, 2017 – Jan, 2022_
 Work Experience
 ======
 **PT. Bank Rakyat Indonesia**  
-_Teller (Internship) -- Oct, 2022 – Oct, 2023_
+_Teller (Internship)_ | _Oct, 2022 – Oct, 2023_
   * Processed financial transactions (deposits, withdrawals, transfers) accurately.
   * Verified transaction documents and maintained daily cash balance.
   * Provided information on bangking products and services to customers.
@@ -29,7 +29,7 @@ _Teller (Internship) -- Oct, 2022 – Oct, 2023_
   * Assisted in resolving customer transaction issues promptly.  
 
 **Universitas Negeri Gorontalo**  
-_Mathematics Laboratory Assistant -- Feb, 2020 – Jan, 2022_
+_Mathematics Laboratory Assistant_ | _Feb, 2020 – Jan, 2022_
   * Assisted students in understanding mathematical concepts and solving problems during laboratory sessions.
   * Introduced students to data processing and programming tools to enhance their computational skills.
   * Provided support to lecturers by organizing and maintaining laboratory tools and supplies.
@@ -76,7 +76,7 @@ _BRI Corporate University, Makassar Dec, 2022_
 * Participant in Frontliner Education Program.
 
 **ASEAN Data Science Explorers 2022 Enablement Session**  
-_ASEAN Foundation - Online May, 2022_
+_ASEAN Foundation, Online May, 2022_
 * Participant in Data Analysis Training using SAP Analytic Cloud (SAC).
 
 
